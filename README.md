@@ -1,4 +1,5 @@
 # Basic-Web-Scraper 
+# A basic web scraper in Python extracts data from websites for analysis or automation tasks.
 
 import requests
 
